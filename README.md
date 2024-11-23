@@ -1,1 +1,1 @@
-# .configCachyOS
+# .dot
